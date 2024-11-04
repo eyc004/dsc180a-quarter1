@@ -1,0 +1,5 @@
+guardrails-ai
+python-dotenv
+requests 
+uuid
+json
