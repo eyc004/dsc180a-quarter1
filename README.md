@@ -1,6 +1,7 @@
-# dsc180a-quarter1
+# Political Sensitivity Guardrail
 This is a repository for a Streamlit app that allows you to translate from English to Simplified Chinese. 
 
+### How to use it on your local machine
 1. The
 2. T
 
