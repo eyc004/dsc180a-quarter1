@@ -1,4 +1,5 @@
 guardrails-ai
+openai
 python-dotenv
 requests 
 uuid
